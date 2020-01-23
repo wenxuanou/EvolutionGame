@@ -1,2 +1,2 @@
 # RevolutionGame
-An customized version of 2048 android mobile game, for ECE150 class.
+A 2048-like android mobile game, for ECE150 class.
